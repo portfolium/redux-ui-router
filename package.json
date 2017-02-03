@@ -37,10 +37,5 @@
   "peerDependencies": {
     "angular": "^1.4.x < 2.0.0",
     "angular-ui-router": "^0.3.0"
-  },
-  "engines" : {
-    "node" : "4.2.1",
-    "npm" : "2.14.7"
   }
-
 }
